@@ -3,5 +3,9 @@
         "activityBar.background": "#12350D",
         "titleBar.activeBackground": "#1A4A12",
         "titleBar.activeForeground": "#F6FDF5"
-    }
+    },
+    "cSpell.words": [
+        "Hello",
+        "world"
+    ]
 }
